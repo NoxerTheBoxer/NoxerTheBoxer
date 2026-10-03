@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="230" viewBox="0 0 1200 230" role="img" aria-label="Brandon Dathan Rolle, Freeport, Grand Bahama">
+  <style>
+    .wave { animation: drift 9s ease-in-out infinite alternate; }
+    @keyframes drift { from { transform: translateX(0); } to { transform: translateX(-120px); } }
+    .name { font: 700 52px 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; fill: #000; animation: rise 1.2s ease-out both; }
+    .sub { font: 600 20px 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; fill: #000; letter-spacing: 3px; animation: rise 1.2s 0.3s ease-out both; }
+    @keyframes rise { from { opacity: 0; transform: translateY(12px); } to { opacity: 1; transform: translateY(0); } }
+    @media (prefers-reduced-motion: reduce) { .wave, .name, .sub { animation: none; } }
+  </style>
+  <defs>
+    <clipPath id="card"><rect width="1200" height="230" rx="18"/></clipPath>
+  </defs>
+  <g clip-path="url(#card)">
+    <rect width="1200" height="230" fill="#00ABC9"/>
+    <!-- gold band, like the middle stripe of the flag -->
+    <g class="wave">
+      <path fill="#FFC72C" d="M0 168 C 200 148, 400 188, 600 168 S 1000 148, 1200 168 S 1400 188, 1440 168 V 230 H 0 Z"/>
+      <path fill="#00ABC9" d="M0 204 C 200 184, 400 224, 600 204 S 1000 184, 1200 204 S 1400 224, 1440 204 V 230 H 0 Z"/>
+    </g>
+    <!-- black chevron from the hoist side -->
+    <path fill="#000" d="M0 0 L150 115 L0 230 Z"/>
+    <text class="name" x="660" y="78" text-anchor="middle">Brandon Dathan Rolle</text>
+    <text class="sub" x="660" y="114" text-anchor="middle">FREEPORT, GRAND BAHAMA</text>
+  </g>
+</svg>

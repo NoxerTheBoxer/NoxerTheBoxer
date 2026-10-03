@@ -1,68 +1,54 @@
-# Hi, I'm Brandon Dathan Rolle 👋
+<img src="assets/banner.svg" alt="Brandon Dathan Rolle, Freeport, Grand Bahama" width="100%" />
 
-<img src="assets/profile-framed.png" alt="Brandon Rolle in a Bahamian flag–themed frame" width="250" align="right" />
+<img src="assets/profile-framed.png" alt="Brandon Rolle in a Bahamian flag-themed frame" width="240" align="right" />
 
-### Aspiring Automation & Robotics Engineer · Electronics Engineering Student · HVAC Apprentice · Martial Artist
+Hey, I'm Brandon. I'm 17, from Freeport, Grand Bahama. I study Electronics Engineering at BTVI, work as an HVAC apprentice, and I'm working toward becoming an automation and robotics engineer.
 
-I'm a 17-year-old builder from **Freeport, Grand Bahama** working toward a career in **automation and robotics engineering**. I want to become a true polymath: someone equally at home with circuits, code, mechanical systems, and the mat.
+Honestly, it started with Five Nights at Freddy's. I was online all the time as a kid, and those animatronics, with all their crazy mechanical and electrical systems, made me want to know how machines like that actually work. I still want to know.
 
-🎓 **My goal:** earn a [**Bachelor of Engineering (Automation and Robotics)**](https://www.algonquincollege.com/sat/program/bachelor-of-automation-and-robotics/) at my dream school, **Algonquin College in Ottawa, Canada**, then use those skills to help build up **The Bahamas** and to help wherever, and whoever, needs it.
+The plan is to get my Bachelor of Engineering in [Automation and Robotics at Algonquin College](https://www.algonquincollege.com/sat/program/bachelor-of-automation-and-robotics/) in Ottawa. It lines up with what I want to do after: start a business that operates in more than one country, and use what I learn to help back home in The Bahamas.
 
-🤝 **Open to** scholarships, mentorship, and internship opportunities that can help me get there.
-
-This profile is where I document what I build along the way, from software tools and AI workflows to electronics, robotics, and physical infrastructure.
+If you know of a scholarship, mentorship, or internship that fits, I'd like to hear about it.
 
 <br clear="right" />
 
----
+## Right now
 
-## ⚡ What I'm doing now
+- Studying for an Associate of Applied Science in Electronics Engineering at BTVI.
+- Apprenticing with the regional refrigeration and HVAC team in Freeport. My first job was installing an air handler in an attic for central air. It was stupidly hot up there.
+- Learning the basics of AI/ML, and using AI tools to automate my own coding workflow.
+- Training boxing, Brazilian Jiu-Jitsu, and judo, and coaching BJJ part-time.
 
-- 🎓 **Studying** for an Associate of Applied Science in **Electronics Engineering** at **BTVI** (Bahamas Technical & Vocational Institute)
-- ❄️ **Working** as an **HVAC Apprentice** with the regional refrigeration and HVAC team in Freeport, getting hands-on with real-world mechanical and electrical systems
-- 🤖 **Learning** the fundamentals of **AI/ML engineering**, and already putting AI to work by automating my own development workflow
-- 🥋 **Training & coaching**: mixed martial artist in **Boxing, Brazilian Jiu-Jitsu, and Judo**, and a part-time **BJJ coach**
+## Projects
 
-## 🎯 Focus areas
+**[Gym App](https://github.com/NoxerTheBoxer/Gym-App)** ([try it](https://noxertheboxer.github.io/Gym-App/))
+I wanted a simple, good-looking way to see which workout I have each day, so I made one. You can install it on your phone and it works offline.
 
-| Area | What that means for me |
-|---|---|
-| 🤖 **Automation & Robotics** | Control systems, sensors, actuators: making machines do useful work on their own |
-| 🔌 **Electronics** | Circuit design, troubleshooting, and embedded hardware |
-| 🏗️ **Physical Infrastructure** | HVAC, refrigeration, and the systems that keep buildings running |
-| 🧠 **AI / ML** | Building the foundations, and using AI agents to automate real workflows |
-| 💻 **Software** | Python tools, web apps, and developer automation |
+**[Home Forge](https://github.com/NoxerTheBoxer/Home-Forge)** ([try it](https://noxertheboxer.github.io/Home-Forge/))
+Same idea, for the days I train at home.
 
-## 🛠️ Projects
+**File Type Sorter** (private)
+The first project that came to mind when I decided to build something. It's a Windows app that finds your files, catches disguised programs like `invoice.pdf.exe`, and sorts everything into the right folders once you approve. Python and PySide6.
 
-| Project | What it is | Built with |
-|---|---|---|
-| 🗂️ **File Type Sorter** <sub>🔒 private</sub> | Desktop app that scans your drives, identifies every file (including disguised programs like `invoice.pdf.exe`), and sorts them into the right Windows folders, only after you approve. Runs in the system tray and watches Downloads automatically. | Python · PySide6 |
-| ⚙️ **Agency OS** <sub>🔒 private</sub> | My personal library of AI agent skills for Claude Code: automatic code review, cleanup, test-and-fix loops, Git commit and push with secret scanning, and plain-English change summaries. | Python · Claude Code · Git |
-| 🏋️ [**Gym App**](https://github.com/NoxerTheBoxer/Gym-App) | Installable web app that tells me which workout I have for the day. Works offline. **[Live demo →](https://noxertheboxer.github.io/Gym-App/)** | HTML · JavaScript · PWA |
-| 🏠 [**Home Forge**](https://github.com/NoxerTheBoxer/Home-Forge) | The at-home edition of my workout planner, for training without a gym. **[Live demo →](https://noxertheboxer.github.io/Home-Forge/)** | HTML · CSS |
+**Agency OS** (private)
+My setup for Claude Code: a set of skills that make it review my code, clean it up, and push it to GitHub on its own.
 
-*More electronics and robotics builds coming as I go.* 🔧
+Electronics and robotics builds will show up here once I have some.
 
-## 🧰 Toolbox
+**What I use:** Python, JavaScript, HTML/CSS, PySide6, Git, VS Code, Claude Code. Off the screen: electronics and HVAC/refrigeration.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Qt](https://img.shields.io/badge/PySide6-41CD52?style=for-the-badge&logo=qt&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+## Activity
 
-**Hands-on:** electronics · circuit troubleshooting · HVAC & refrigeration systems
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NoxerTheBoxer/NoxerTheBoxer/output-snake/snake-dark.svg" />
+  <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/NoxerTheBoxer/NoxerTheBoxer/output-snake/snake-light.svg" />
+</picture>
 
-## 🥋 Off the keyboard
-
-Martial arts taught me the same things engineering does: fundamentals first, consistent reps, and staying calm under pressure. When I'm not building, I'm training **Boxing, BJJ, and Judo**, or coaching the next group of grapplers.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NoxerTheBoxer/NoxerTheBoxer/output-3d/profile-night-view.svg" />
+  <img alt="My contributions as a 3D city" src="https://raw.githubusercontent.com/NoxerTheBoxer/NoxerTheBoxer/output-3d/profile-green-animate.svg" />
+</picture>
 
 ---
 
-<p align="center"><i>"Fundamentals first. Then build everything."</i></p>
+> I'm not talented or good at anything really, I'm just trash at giving up.
