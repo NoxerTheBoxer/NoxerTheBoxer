@@ -1,10 +1,12 @@
-<img src="assets/profile.jpg" alt="Brandon Rolle" width="230" align="right" />
-
 # Hi, I'm Brandon Dathan Rolle 👋
+
+<img src="assets/profile-framed.png" alt="Brandon Rolle in a Bahamian flag–themed frame" width="250" align="right" />
 
 ### Aspiring Automation & Robotics Engineer · Electronics Engineering Student · HVAC Apprentice · Martial Artist
 
-I'm a 17-year-old builder from **Freeport, Grand Bahama** 🇧🇸 working toward a career in **automation and robotics engineering**. My goal is to become a true polymath: someone equally at home with circuits, code, mechanical systems, and the mat.
+I'm a 17-year-old builder from **Freeport, Grand Bahama** working toward a career in **automation and robotics engineering**. I want to become a true polymath: someone equally at home with circuits, code, mechanical systems, and the mat.
+
+🎓 **My goal:** earn a **Bachelor's degree in Automation & Robotics Engineering** at my top-choice university, then use those skills to help build up **The Bahamas** and to help wherever, and whoever, needs it.
 
 This profile is where I document what I build along the way, from software tools and AI workflows to electronics, robotics, and physical infrastructure.
 
