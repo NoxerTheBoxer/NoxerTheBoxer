@@ -6,7 +6,9 @@
 
 I'm a 17-year-old builder from **Freeport, Grand Bahama** working toward a career in **automation and robotics engineering**. I want to become a true polymath: someone equally at home with circuits, code, mechanical systems, and the mat.
 
-🎓 **My goal:** earn a **Bachelor's degree in Automation & Robotics Engineering** at my top-choice university, then use those skills to help build up **The Bahamas** and to help wherever, and whoever, needs it.
+🎓 **My goal:** earn a [**Bachelor of Engineering (Automation and Robotics)**](https://www.algonquincollege.com/sat/program/bachelor-of-automation-and-robotics/) at my dream school, **Algonquin College in Ottawa, Canada**, then use those skills to help build up **The Bahamas** and to help wherever, and whoever, needs it.
+
+🤝 **Open to** scholarships, mentorship, and internship opportunities that can help me get there.
 
 This profile is where I document what I build along the way, from software tools and AI workflows to electronics, robotics, and physical infrastructure.
 
