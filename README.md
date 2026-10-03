@@ -2,13 +2,21 @@
 
 <img src="assets/profile-framed.png" alt="Brandon Rolle in a Bahamian flag-themed frame" width="240" align="right" />
 
+### About me
+
 Hey, I'm Brandon. I'm 17, from Freeport, Grand Bahama. I study Electronics Engineering at BTVI, work as an HVAC apprentice, and I'm working toward becoming an automation and robotics engineer.
+
+### How it started
 
 Honestly, it started with Five Nights at Freddy's. I was online all the time as a kid, and those animatronics, with all their crazy mechanical and electrical systems, made me want to know how machines like that actually work. I still want to know.
 
-The plan is to get my Bachelor of Engineering in [Automation and Robotics at Algonquin College](https://www.algonquincollege.com/sat/program/bachelor-of-automation-and-robotics/) in Ottawa. It lines up with what I want to do after: start a business that operates in more than one country, and use what I learn to help back home in The Bahamas.
+### The plan
 
-If you know of a scholarship, mentorship, or internship that fits, I'd like to hear about it.
+Get my Bachelor of Engineering in [Automation and Robotics at Algonquin College](https://www.algonquincollege.com/sat/program/bachelor-of-automation-and-robotics/) in Ottawa. It lines up with what I want to do after: start a business that operates in more than one country, and use what I learn to help back home in The Bahamas.
+
+### Open to
+
+Scholarships, mentorship, and internships. If you know of one that fits, I'd like to hear about it.
 
 <br clear="right" />
 
@@ -21,17 +29,12 @@ If you know of a scholarship, mentorship, or internship that fits, I'd like to h
 
 ## Projects
 
-**[Gym App](https://github.com/NoxerTheBoxer/Gym-App)** ([try it](https://noxertheboxer.github.io/Gym-App/))
-I wanted a simple, good-looking way to see which workout I have each day, so I made one. You can install it on your phone and it works offline.
-
-**[Home Forge](https://github.com/NoxerTheBoxer/Home-Forge)** ([try it](https://noxertheboxer.github.io/Home-Forge/))
-Same idea, for the days I train at home.
-
-**File Type Sorter** (private)
-The first project that came to mind when I decided to build something. It's a Windows app that finds your files, catches disguised programs like `invoice.pdf.exe`, and sorts everything into the right folders once you approve. Python and PySide6.
-
-**Agency OS** (private)
-My setup for Claude Code: a set of skills that make it review my code, clean it up, and push it to GitHub on its own.
+| Project | What it is | Built with | Links |
+|---|---|---|---|
+| **Gym App** | I wanted a simple, good-looking way to see which workout I have each day, so I made one. Installs on your phone and works offline. | HTML, JavaScript | [Try it](https://noxertheboxer.github.io/Gym-App/) · [Code](https://github.com/NoxerTheBoxer/Gym-App) |
+| **Home Forge** | Same idea, for the days I train at home. | HTML, CSS | [Try it](https://noxertheboxer.github.io/Home-Forge/) · [Code](https://github.com/NoxerTheBoxer/Home-Forge) |
+| **File Type Sorter** | The first project that came to mind when I decided to build something. A Windows app that finds your files, catches disguised programs like `invoice.pdf.exe`, and sorts everything into the right folders once you approve. | Python, PySide6 | Private |
+| **Agency OS** | My setup for Claude Code: skills that make it review my code, clean it up, and push it to GitHub on its own. | Python, Claude Code | Private |
 
 Electronics and robotics builds will show up here once I have some.
 
@@ -41,14 +44,9 @@ Electronics and robotics builds will show up here once I have some.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NoxerTheBoxer/NoxerTheBoxer/output-snake/snake-dark.svg" />
-  <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/NoxerTheBoxer/NoxerTheBoxer/output-snake/snake-light.svg" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NoxerTheBoxer/NoxerTheBoxer/output-3d/profile-night-view.svg" />
-  <img alt="My contributions as a 3D city" src="https://raw.githubusercontent.com/NoxerTheBoxer/NoxerTheBoxer/output-3d/profile-green-animate.svg" />
+  <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/NoxerTheBoxer/NoxerTheBoxer/output-snake/snake-light.svg" width="100%" />
 </picture>
 
 ---
 
-> I'm not talented or good at anything really, I'm just trash at giving up.
+<p align="center"><i>"Fundamentals first. Then build everything."</i></p>

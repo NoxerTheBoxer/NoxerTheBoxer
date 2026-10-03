@@ -1,13 +1,15 @@
 name: Profile visuals
 
-# Regenerates the contribution snake and the 3D contribution city.
+# Regenerates the contribution snake in Bahamas flag colors.
 on:
   schedule:
     - cron: "0 7 * * *" # 3 AM in The Bahamas (EDT)
   workflow_dispatch:
   push:
     branches: [main]
-    paths: [.github/workflows/profile-visuals.yml]
+    paths:
+      - .github/workflows/profile-visuals.yml
+      - .github/scripts/style_snake.py
 
 permissions:
   contents: write
@@ -20,32 +22,27 @@ jobs:
   snake:
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v5
+
       - uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          # Bahamas colors: gold snake, aquamarine contribution squares
+          # gold snake, aquamarine contribution squares
           outputs: |
             dist/snake-light.svg?color_snake=#FFC72C&color_dots=#ebedf0,#b3ecf5,#5fd2e6,#00abc9,#00788d
             dist/snake-dark.svg?color_snake=#FFC72C&color_dots=#161b22,#00505e,#00788d,#00abc9,#5fd2e6
 
+      # snk writes dist/ as root, so styled copies go to a separate folder
+      - name: Style snake
+        run: |
+          mkdir -p out
+          for theme in light dark; do
+            python3 .github/scripts/style_snake.py "dist/snake-$theme.svg" "out/snake-$theme.svg" "$theme"
+          done
+
       - uses: crazy-max/ghaction-github-pages@v5
         with:
           target_branch: output-snake
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-  city:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: yoshi389111/github-profile-3d-contrib@v0.9.3
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: ${{ github.repository_owner }}
-
-      - uses: crazy-max/ghaction-github-pages@v5
-        with:
-          target_branch: output-3d
-          build_dir: profile-3d-contrib
+          build_dir: out
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
