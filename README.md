@@ -49,4 +49,6 @@ Electronics and robotics builds will show up here once I have some.
 
 ---
 
+<p align="center"><img src="assets/flag.svg" alt="Flag of The Bahamas waving" width="300" /></p>
+
 <p align="center"><i>"Fundamentals first. Then build everything."</i></p>
